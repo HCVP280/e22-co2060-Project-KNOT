@@ -19,14 +19,18 @@ If your followed all the given instructions correctly, your repository will be a
 
 A HTML template integrated with the given GitHub repository templates, based on github.com/cepdnaclk/eYY-project-theme . If you like to remove this default theme and make your own web page, you can remove the file, docs/_config.yml and create the site using HTML. -->
 
-# Project Title
+# Project KNOT
 
 ---
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/22/237, M. F. M. Minhaj Ali, [e22237@eng.pdn.ac.lk](mailto:e22237@eng.pdn.ac.lk)
+-  E/22/366, M. D. S. Senanayake, [e22366@eng.pdn.ac.lk](mailto:e22366@eng.pdn.ac.lk)
+-  E/22/280, H. C. V. Perera, [e22280@eng.pdn.ac.lk](mailto:e22280@eng.pdn.ac.lk)
+-  E/22/443, W. M. E. N. Wijesinghe, [e22443@eng.pdn.ac.lk](mailto:e22443@eng.pdn.ac.lk)
+
+## Supervisor
+-  Prof. Roshan G. Ragel, [roshanr@eng.pdn.ac.lk](mailto:e22237@eng.pdn.ac.lk)
 
 <!-- Image (photo/drawing of the final hardware) should be here -->
 
